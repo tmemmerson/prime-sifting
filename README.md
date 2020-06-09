@@ -1,9 +1,9 @@
 
-# _<$title$>_
+# _Prime Sifting_
 
   
 
-#### _<$headline$>_	
+#### _Utilizing the Sieve of Eratosthenes_	
 
   
 
@@ -15,7 +15,7 @@
 
   
 
-_<$description$>_
+_an exercise aimed to utilize the greek algorithm to find prime numbers up to an inputted upper limit._
 
 
 
