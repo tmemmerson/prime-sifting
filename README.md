@@ -15,7 +15,7 @@
 
   
 
-_an exercise aimed to utilize the greek algorithm to find prime numbers up to an inputted upper limit._
+_an exercise aimed to utilize the greek algorithm to find prime numbers up to an inputted upper limit. the sieve appears to start at the smallest number within the range, and then "blocks out" all multiples of each prime number found between 2-10 (permitted the range includes as least those values). This method of "blocking out" multiples of the found prime numbers, appears to work up to any upper limit, so if I can work out the logic, it should be applicable to all ranges._
 
 
 
@@ -25,9 +25,9 @@ _an exercise aimed to utilize the greek algorithm to find prime numbers up to an
 
 *  _Recommended browser for everything in your life. [Google Chrome](https://www.google.com/chrome/)_.
 
-*  _Github [repository](https://github.com/tmemmerson/NewFavoriteThings.git)_
+*  _Github [repository](https://github.com/tmemmerson/prime-sifting.git)_
 
-*  _Live [demo](https://github.com/tmemmerson/NewFavoriteThings.git)_
+*  _Live [demo](https://tmemmerson.github.io/prime-sifting)_
 
 
   
@@ -36,7 +36,7 @@ _an exercise aimed to utilize the greek algorithm to find prime numbers up to an
 
   
 
-_<$status$> **<$date$>**_
+_No known bugs **6/9/2020**_
 
   
 
